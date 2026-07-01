@@ -39,28 +39,27 @@ ip access-group 101 in
 
 ## Verification
 
-# ACL Configuration
+### ACL Configuration
 
 ![ACL](show-access-lists.png)
 
-# ACL Applied to Interface
+### ACL Applied to Interface
 
 ![Interface](acl-interface.png)
 
-# Allowed Host
+### Allowed Host
 
 ![Allowed](allowed-ping.png)
 
-# Blocked Host
+### Blocked Host
 
 ![Blocked](blocked-ping.png)
 
-# Routing Table
+### Routing Table
 
 ![Routing](routing-table.png)
 
-
- Project Files
+## Project Files
 
 - Cisco Extended ACL.pkt – Packet Tracer topology
 - README.md – Project documentation
